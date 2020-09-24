@@ -1,0 +1,208 @@
+.a{
+	background: url(f2.jpg) #CCC no-repeat ;
+	background-size: 100% 120%;
+	background-attachment: fixed;
+	background-position: center center;
+	
+}
+.f{
+	position: absolute;
+	top: 10%;
+	height: 20%;
+	width: 15%;
+	left: 5%;
+	background-color: #E6E6FA;
+	font-family: fuente1;
+
+
+}
+.f1{
+	position: absolute;
+	top: 10%;
+	height: 30%;
+	width: 75%;
+	left: 13%;
+	background-color: #20B2AA;
+	font-family: fuente2;
+	font-size: 20px;
+}
+.f2{
+	position: absolute;
+	top: 62%;
+	height: 30%;
+	width: 75%;
+	left: 13%;
+	color: black;
+	background-color: #20B2AA;
+	font-family: fuente2;
+	font-size: 20px;
+}
+.b{
+	font-family: fuente;
+	font-size: 80px;
+}
+@font-face
+{
+font-family: fuente;
+src: url(fuente2.ttf);
+}
+@font-face
+{
+font-family: fuente1;
+src: url(Vogue.ttf);
+}
+@font-face
+{
+font-family: fuente2;
+src: url(oro3.ttf);
+}
+.d
+{
+	position: absolute;
+	width: 17%;
+	height: 10%;
+	top: 67%; 
+	left: 1%;
+}
+.d1
+{
+	position: absolute;
+	width: 6%;
+	height: 5%;
+	top: 78%;
+	color: #ECF0F1; 
+	background-color: #155F84;
+	left: 1.9%;
+	border-radius: 4px;
+}
+.d2
+{
+	position: absolute;
+	width: 6%;
+	height: 5%;
+	top: 78%;
+	color: #ECF0F1; 
+	background-color: #155F84;
+	left: 11%;
+	border-radius: 4px;
+}
+.di
+{
+	position: absolute;
+	width: 17%;
+	height: 10%;
+	top: 67%; 
+	left: 21%;
+}
+.di1
+{
+	position: absolute;
+	width: 6%;
+	height: 5%;
+	top: 78%;
+	color: #ECF0F1; 
+	background-color: #155F84;
+	left: 22%;
+	border-radius: 4px;
+}
+.di2
+{
+	position: absolute;
+	width: 6%;
+	height: 5%;
+	top: 78%;
+	color: #ECF0F1; 
+	background-color: #155F84;
+	left: 31%;
+	border-radius: 4px;
+}
+.div
+{
+	position: absolute;
+	width: 17%;
+	height: 10%;
+	top: 67%; 
+	left: 41.5%;
+}
+.div1
+{
+	position: absolute;
+	width: 6%;
+	height: 5%;
+	top: 78%;
+	color: #ECF0F1; 
+	background-color: #155F84;
+	left: 42%;
+	border-radius: 4px;
+}
+.div2
+{
+	position: absolute;
+	width: 6%;
+	height: 5%;
+	top: 78%;
+	color: #ECF0F1; 
+	background-color: #155F84;
+	left: 52%;
+	border-radius: 4px;
+}
+.divv
+{
+	position: absolute;
+	width: 17%;
+	height: 10%;
+	top: 67%; 
+	left: 62%;
+}
+.divv1
+{
+	position: absolute;
+	width: 6%;
+	height: 5%;
+	top: 78%;
+	color: #ECF0F1; 
+	background-color: #155F84;
+	left: 63%;
+	border-radius: 4px;
+}
+.divv2
+{
+	position: absolute;
+	width: 6%;
+	height: 5%;
+	top: 78%;
+	color: #ECF0F1; 
+	background-color: #155F84;
+	left: 72%;
+	border-radius: 4px;
+}
+.divvv
+{
+	position: absolute;
+	width: 17%;
+	height: 10%;
+	top: 67%; 
+	left: 82%;
+}
+.divvv1
+{
+	position: absolute;
+	width: 6%;
+	height: 5%;
+	top: 78%;
+	color: #ECF0F1; 
+	background-color: #155F84;
+	left: 83%;
+	border-radius: 4px;
+}
+.divvv2
+{
+	position: absolute;
+	width: 6%;
+	height: 5%;
+	top: 78%;
+	color: #ECF0F1; 
+	background-color: #155F84;
+	left: 93%;
+	border-radius: 4px;
+}
